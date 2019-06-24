@@ -1,7 +1,7 @@
 {
-  "first_app": "",
-  "change_calculator": "",
-  "mortgage_calculator": "",
-  "top_spots": "",
-  "vstda": ""
+  "first_app": "https://blooming-ocean-31916.herokuapp.com",
+  "change_calculator": "https://djl-react100-change-calculator.herokuapp.com",
+  "mortgage_calculator": "https://djl-react100-mort-calc.herokuapp.com",
+  "top_spots": "https://djl-react100-sd-top-spots.herokuapp.com",
+  "vstda": "https://djl-react100-vstda.herokuapp.com"
 }
